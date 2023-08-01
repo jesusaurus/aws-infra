@@ -25,7 +25,6 @@ Resources:
                         "acm:*",
                         "aws-marketplace-management:*",
                         "aws-marketplace:*",
-                        "aws-portal:*",
                         "awsbillingconsole:*",
                         "budgets:*",
                         "ce:*",
